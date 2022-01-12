@@ -12,7 +12,7 @@ importlib-metadata==1.7.0
 language-selector==0.1
 lightdm-gtk-greeter-settings==1.2.1
 lxml==3.5.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 psycopg2==2.8.5
 psycopg2-binary==2.8.5
 pycups==1.9.73
